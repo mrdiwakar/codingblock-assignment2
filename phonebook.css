@@ -1,0 +1,27 @@
+dl {
+  height: 300px;
+  width: ;
+  border: 10px groove rgb(149, 177, 219);
+  overflow: scroll;
+  background-color: cornsilk;
+}
+dt {
+  font-family: Helvetica, sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  background-color: rgb(47, 117, 126);
+  color: rgb(231, 223, 238);
+  border: 2px solid rgb(166, 143, 188);
+  position: sticky;
+  top: -1px;
+}
+dd {
+  margin: 10px;
+  font-family:  Tahoma, Geneva, Verdana, sans-serif;
+border-top: 1px solid rgb(223, 223, 187);
+}
+dd:nth-child(2), .dhavan {
+    border : hidden;
+}
+
+
